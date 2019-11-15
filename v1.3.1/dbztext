@@ -150,4 +150,3 @@ else:
                 print("You are fighting Raditz")
                 print("You have died.")
                 break
- 
