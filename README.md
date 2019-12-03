@@ -38,10 +38,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">DBZ: Text Adventures</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    A text Adventure game based on Dragon Ball Z and Super.
     <br />
     <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
     <br />
