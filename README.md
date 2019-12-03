@@ -41,7 +41,7 @@
   <h3 align="center">DBZ Text Adventures</h3>
 
   <p align="center">
- A text Adventure game based on DBZ and DBS
+    Text Adventure
     <br />
     <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
     <br />
