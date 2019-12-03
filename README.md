@@ -85,52 +85,42 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()Hi
-* []()
-* []()
+* []()Python 3
+* []()Random Module
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get started playing, follow these instructions.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+* []()Codeskulptor 3. (This is a website that runs python code)
+
+* []()A text copy of the game from the project. (pick a version from the master branch and there you go)
 
 ### Installation
  
-1. Clone the repo
-```sh
-git clone https://github.com/github_username/repo.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
+
+No installations are needed as this game is currently at a level of capability that does not require data to be stored and only takes temporary data in variables.
+
+In other words, data is not being stored as a permanent value and is erased when the game ends or is closed.
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Follow instructions in the game and use the correct input. Any other input besides the alloted characters will return with no output and will return you to make a choice again.
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
-
+See the [open issues](https://github.com/hajaren1466/dbztextadventures/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
