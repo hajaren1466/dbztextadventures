@@ -43,7 +43,7 @@
   <p align="center">
     A text Adventure game.
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hajaren1466/dbztextadventures"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo">View Demo</a>
