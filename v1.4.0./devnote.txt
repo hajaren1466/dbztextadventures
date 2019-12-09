@@ -1,0 +1,8 @@
+Note to the author made by the author:
+
+Since I don't have a computer at times to code with Its hard to test my code which has modules that android apps I use to code mobile cannot run.
+Use this site and your code can be tested:
+
+https://repl.it/languages/python3
+
+(NOT IMPORTANT FOR ANY OTHER USER UNLESS YOU ARE HIRED TO FREELANCE DEVELOP THE GAME AT YOUR OWN DISCRETION.)
