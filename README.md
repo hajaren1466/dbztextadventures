@@ -129,7 +129,7 @@ See the [open issues](https://github.com/hajaren1466/dbztextadventures/issues) f
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the LGPL-2.1 License. See `LICENSE` for more information.
 
 
 
