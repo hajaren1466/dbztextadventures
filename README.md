@@ -102,10 +102,18 @@ To get started playing, follow these instructions.
 
 ### Installation
  
-
+For versions before 2.0.0
 No installations are needed as this game is currently at a level of capability that does not require data to be stored and only takes temporary data in variables.
 
 In other words, data is not being stored as a permanent value and is erased when the game ends or is closed.
+
+For versions 2.0.0 and beyond
+
+Download the executable associated with the release you are wanting, then extract it to a directory of your choosing (Most likely C:\Games\GAMEFOLDEREXAMPLE\), then run it.
+
+You may need elevation (run as admin) depending on the location the game is on. 
+
+This is because when saving your game, it must write to a savegame.txt on the same directory as which the executable is located on.
 
 
 
