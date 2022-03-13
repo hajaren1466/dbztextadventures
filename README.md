@@ -107,6 +107,8 @@ No installations are needed as this game is currently at a level of capability t
 
 In other words, data is not being stored as a permanent value and is erased when the game ends or is closed.
 
+You do need Python installed (3.9-3.10)
+
 For versions 2.0.0 and beyond
 
 Download the executable associated with the release you are wanting, then extract it to a directory of your choosing (Most likely C:\Games\GAMEFOLDEREXAMPLE\), then run it.
@@ -114,6 +116,8 @@ Download the executable associated with the release you are wanting, then extrac
 You may need elevation (run as admin) depending on the location the game is on. 
 
 This is because when saving your game, it must write to a savegame.txt on the same directory as which the executable is located on.
+
+For these releases you do not need python installed to run it.
 
 
 
